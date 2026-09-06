@@ -137,9 +137,9 @@ class Deepender extends Engineer
 
 <a href="https://github.com/DeepLinkCode"><img src="https://img.shields.io/badge/GitHub-DeepLinkCode-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 &nbsp;
-<a href="mailto:choudharydeepender@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:deepch.me@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/deepender-choudhary/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/deepender07/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
 <a href="https://promantus.com"><img src="https://img.shields.io/badge/Promantus_Inc.-Company-0052CC?style=for-the-badge&logo=microsoft&logoColor=white" alt="Company"/></a>
 
