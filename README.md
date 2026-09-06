@@ -99,10 +99,7 @@ class Deepender extends Engineer
 <!-- Contribution Streak -->
 <img src="https://streak-stats.demolab.com?user=DeepLinkCode&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="Contribution Streak" />
 
-<br/><br/>
-
-<!-- Profile Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=DeepLinkCode&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+<br/>
 
 </div>
 
